@@ -1,0 +1,13 @@
+# Archivos temporales y backups de KiCad
+*-bak.kicad_pcb
+*-bak.kicad_sch
+*.bak
+*.bck
+*.tmp
+_autosave-*
+*.log
+
+# Archivos de ruteo automático y netlists
+*.net
+*.ses
+*.rules
