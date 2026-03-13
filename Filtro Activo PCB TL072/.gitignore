@@ -11,3 +11,10 @@ _autosave-*
 *.net
 *.ses
 *.rules
+
+# Carpetas de backup de KiCad
+*-backups/
+
+# Caché de footprints y configuración de usuario
+fp-info-cache
+*.kicad_prl
