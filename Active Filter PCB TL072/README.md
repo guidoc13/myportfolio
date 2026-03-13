@@ -5,8 +5,8 @@ Este proyecto consiste en el diseño y ruteo de una placa de circuito impreso (P
 ## Vistas del Proyecto
 
 <p align="center">
-  <img src="images/3D_1.png" width="45%" title="Vista 3D Top">
-  <img src="images/3D_2.png" width="45%" title="Vista 3D Bottom">
+  <img src="Images/3D_1.png" width="45%" title="Vista 3D Top">
+  <img src="Images/3D_2.png" width="45%" title="Vista 3D Bottom">
 </p>
 
 ## Criterios de Diseño Aplicados
